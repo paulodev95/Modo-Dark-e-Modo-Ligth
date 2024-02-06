@@ -5,7 +5,7 @@
 
 ## 📖 Sobre
 
-Olá! Este projeto visa mostrar uma visão geral daquilo que faço!
+Olá! Este projeto visa mostrar sobre como os usuários podem ter melhores experiências em aplicações novas!
 
 
 Passamos muito tempo vidrados na tela dos nossos dispositivos, sejam eles Web ou Mobile. Mas você já parou para pensar que a maioria deles possui uma característica em comum: um background claro com texto escuros como padrão?
