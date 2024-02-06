@@ -15,7 +15,7 @@ Pois é, isso está mudando com a vinda do Dark Mode (Modo Escuro) e seus benef�
 ---
 ## 💻 Como Testar o Projeto
 
-1. Clone este repositório `https://github.com/paulodev95/Modo-Dark-e-Modo-Ligth` ou acesse: https://github.com/paulodev95/potifolio
+1. Clone este repositório `https://github.com/paulodev95/Modo-Dark-e-Modo-Ligth` ou acesse: https://paulodev95.github.io/Modo-Dark-e-Modo-Ligth/
 
 2. Abra a pasta que foi feito o download.
 
