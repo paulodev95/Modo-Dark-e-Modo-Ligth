@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: #21212121;
+    background-color: black;
 }
 
 h1{
@@ -21,4 +21,10 @@ h1{
     width: 350px;
     height: 150px;
     background-color: #4d4d4d;
+    border-radius: 150px;
+    position: relative;
+}
+.trilho .indicador{
+    width: 150px;
+    height: 150px;
 }
